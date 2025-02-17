@@ -1,4 +1,4 @@
-Operating Systems Project
+CSCE 4326 201 SP25 Operating Systems Project
 
 Mauricio Ornelas
 
